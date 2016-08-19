@@ -1,0 +1,186 @@
+
+
+#logo-header {
+    width: 132px;
+    margin-top: -10px;
+}
+
+.footer-logo {
+    width: 160px;
+}
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+.imgIcons
+{
+	width: 40px;
+}
+.imgIcons img
+{
+	width: 40px;
+}
+
+.firstLetter
+{
+	font-size: 30px;
+    font-weight: 600;
+    color: black;
+    display: -webkit-inline-box;
+}
+
+.shadow-wrapper img
+{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/*-------------------------Posts NEWS*/
+.postNews
+{
+    padding: 10px;
+    height: auto;
+    border: 1px solid #f1f1f1;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    -webkit-box-shadow: 0px 6px 33px -13px rgba(0,0,0,0.51);
+    -moz-box-shadow: 0px 6px 33px -13px rgba(0,0,0,0.51);
+    box-shadow: 0px 6px 33px -13px rgba(0,0,0,0.51);
+}
+
+.postDate
+{
+    width: 100%;
+    text-align: left;
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.postTitle
+{
+    width: 100%;
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    color: #3675b9;
+    font-weight: 600;
+}
+.postShort
+{
+    width: 100%;
+    text-align: left;
+    font-size: 13px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.postReadMore
+{
+    width: 100%;
+    text-align: right;
+    padding-right: 10px;
+}
+p.post-meta {
+    margin-bottom: 20px;
+}
+.service-block {
+    height: 200px;
+}
+
+.services img
+{
+    width: 40px;
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+}
+
+.services .service-block 
+{
+    height: 250px;
+    margin-top: 20px;
+}
+
+.whyus img
+{
+    width: 40px;
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+}
+
+.whyus .service-block 
+{
+    height: 250px;
+    margin-top: 20px;
+}
+
+.thankyou h1
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.thankyou h2
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.carousel-caption {
+    background: none!important;
+    box-shadow: none!important;
+}
+
+.slider h1
+{
+    color: white!important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.9)!important;
+}
+
+.slider p
+{
+    color: white!important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.9)!important;
+}
+
+
+.carousel-inner > .item > img {
+    opacity: 0.9!important;
+}
+.carousel .item {
+    background-color: #000000!important;
+}
+
